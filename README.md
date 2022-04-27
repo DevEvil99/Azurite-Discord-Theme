@@ -1,5 +1,6 @@
 # Azurite 
-**Bring a new look to your Discord with Azurite, A dark and customizable theme**
+**Bring a new look to your Discord with Azurite, A dark and customizable theme** <br><br>
+**If you found any bugs please create an [issue](https://github.com/DevEvil99/Azurite-Discord-Theme/issues) or join my [discord server](https://devevil.xyz/discord)!**
 # User customization
 - **Home icon**
 - **All the colors**
