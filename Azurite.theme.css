@@ -1,0 +1,33 @@
+/**
+  * @name Azurite
+  * @author DevEvil#8745
+  * @version 1.0
+  * @description Bring a new look to your Discord with Azurite, A dark and customizable theme
+  * @authorId 468132563714703390
+  * @authorLink https://devevil.xyz
+  * @source https://github.com/DevEvil99/Azurite-Discord-Theme
+  * @website https://devevil.xyz
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Azurite/Azurite.theme.css');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+:root {
+	--azurite-bg: #040429;
+	--azurite-bg2: #121236;
+	--azurite-sec: #24CC89;
+	--azurite-links: #8bffcf;
+	--azurite-home-icon: url('https://cdn.discordapp.com/attachments/468141324906921984/968943188486271036/logo.png?size=4096');
+	--watermark-filter-invert: 0%;
+	--watermark-filter-sepia: 50%;
+	--watermark-filter-saturate: 3000%;
+	--watermark-filter-hue-rotate: 100deg;
+	--watermark-filter-brightness: 100%;
+	--watermark-filter-contrast: 70%;
+	--azurite-emoji-picker-color: 100deg;
+	--avatar-radius: 5px;
+	--server-radius: 5px;
+  --msg-bg-radius: 5px;
+	--font: 'Righteous', cursive;
+}
