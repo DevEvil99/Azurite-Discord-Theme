@@ -18,7 +18,6 @@
 - **Home icon**
 - **Colors**
 # Links 
-**[Preview](https://devevil.com/theme-preview/azurite)** <br>
 **[Download](https://betterdiscord.app/theme/Azurite)** <br>
 **[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
