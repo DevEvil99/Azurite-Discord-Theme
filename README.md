@@ -15,16 +15,18 @@
 # User customization
 - **Home icon**
 - **Colors**
+
+# My Other Themes
+- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
+- **[Ocean](https://betterdiscord.app/theme/Ocean)**
+- **[Neptune](https://betterdiscord.app/theme/Neptune)**
+- **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
+
 # Links 
 **[Download](https://betterdiscord.app/theme/Azurite)** <br>
 **[Download Azurite with Defualt Memberlist](https://github.com/DevEvil99/Azurite-Defualt-Memberlist/releases/download/version1/Azurite-Defualt-Member-List.theme.css)** <br>
 **[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
 **[Contact](https://devevil.com/contact)** <br>
-
-# My Other Themes
-- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
-- **[Ocean](https://betterdiscord.app/theme/Ocean)**
-- **[Neptune](https://betterdiscord.app/theme/Neptune)**
 
 **Made with 💚 by [@devevil/DevEvil#8745](https://devevil.com/)**
