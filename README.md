@@ -9,17 +9,18 @@
 </div>
 <br>
 
-![theme](https://github.com/DevEvil99/Azurite-Discord-Theme/assets/73029696/a2fd0b93-2a17-45c5-83c8-f06f79d7e41a)
+![azurite](https://github.com/user-attachments/assets/79ec95f2-1611-48c4-af27-6223eda90a7a)
 
 
 # User customization
 - **Home icon**
 - **Colors**
 
-# My Other Themes
-- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
+# All of my themes
+- **[Dark+](https://betterdiscord.app/theme/Dark+)**
 - **[Ocean](https://betterdiscord.app/theme/Ocean)**
 - **[Neptune](https://betterdiscord.app/theme/Neptune)**
+- **[Azurite](https://betterdiscord.app/theme/Azurite)**
 - **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
 
 # Links 
