@@ -25,7 +25,7 @@
 
 # Links 
 **[Download](https://betterdiscord.app/theme/Azurite)** <br>
-**[Download Azurite with Defualt Memberlist](https://github.com/DevEvil99/Azurite-Defualt-Memberlist/releases/download/version1/Azurite-Defualt-Member-List.theme.css)** <br>
+**[Download Azurite with Default Memberlist](https://github.com/DevEvil99/Azurite-Default-Memberlist/releases)** <br>
 **[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
 **[Contact](https://devevil.com/contact)** <br>
