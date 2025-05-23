@@ -12,14 +12,42 @@
 ![azurite](https://github.com/user-attachments/assets/79ec95f2-1611-48c4-af27-6223eda90a7a)
 
 
+## How to Use the Default Member List Version
+To switch to the Default Member List version of the theme, follow these steps:
+
+1. Open the theme file in a text editor.
+2. Locate the following line and **comment it out** by wrapping it with `/*` and `*/`:
+
+   ```css
+   @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Azurite/Azurite.theme.css');
+   ```
+
+   → Becomes:
+
+   ```css
+   /*@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Azurite/Azurite.theme.css');*/
+   ```
+3. Find the following line and **uncomment it** by removing the `/*` and `*/`:
+
+   ```css
+   /*@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Azurite/Azurite-Default-Member-List.theme.css');*/
+   ```
+
+   → Becomes:
+
+   ```css
+   @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Azurite/Azurite-Default-Member-List.theme.css');
+   ```
+4. Save the file.
+
 # User customization
 - **Home icon**
 - **Colors**
+- **Font**
 
 # Links
 - **[Download From BetterDiscord](https://betterdiscord.app/theme/Azurite)**
 - **[All of my addons](https://betterdiscord.app/developer/DevEvil)**
-- **[Download Azurite with Default Memberlist](https://github.com/DevEvil99/Azurite-Default-Memberlist/releases)**
 - **[Website](https://devevil.com)** 
 - **[Support Server](https://discord.gg/jsQ9UP7kCA)** 
 - **[Contact](https://devevil.com/contact)**
